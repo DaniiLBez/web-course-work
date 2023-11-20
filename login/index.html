@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Game</title>
+    <link rel="stylesheet" href="login.css" />
+    <script src="storage.js"></script>
+  </head>
+  <body onload="read('activate')">
+    <form class="form" action="/level1/index.html">
+      <h1 class="form_title">The Game</h1>
+      <div class="form_group">
+        <input
+          required
+          class="form_input"
+          placeholder=" "
+          id="activate"
+          maxlength="10"
+        />
+        <label class="form_label">Имя игрока</label>
+      </div>
+      <button type="submit" class="form_button" onclick="store('activate')">
+        Играть
+      </button>
+    </form>
+  </body>
+</html>

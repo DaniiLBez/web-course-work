@@ -1,0 +1,37 @@
+<meta charset="UTF-8" />
+<title>The Game</title>
+<link rel="stylesheet" href="game.css" />
+<link
+  href="https://fonts.googleapis.com/css?family=Press+Start+2P"
+  rel="stylesheet"
+/>
+<body>
+  <h1 class="game-header">King and Pigs</h1>
+  <div class="container">
+    <div class="canvas-container"><canvas></canvas></div>
+    <div class="top-header">
+      <div id="playerId">Игрок:</div>
+      <div id="levelId">Текущий уровень:</div>
+      <div id="scoreId">Счет:</div>
+    </div>
+  </div>
+
+  <script src="../src/entities/Entity.js"></script>
+  <script src="../src/entities/EnemyBase.js"></script>
+  <script src="../src/entities/Player.js"></script>
+  <script src="../src/entities/Enemy.js"></script>
+  <script src="../src/entities/Cannon.js"></script>
+  <script src="../src/entities/Heal.js"></script>
+  <script src="../src/entities/Coin.js"></script>
+  <script src="../src/entities/Door.js"></script>
+  <script src="../src/entities/Bullet.js"></script>
+  <script src="../src/entities/Factory.js"></script>
+  <script src="../src/managers/gameManager.js"></script>
+  <script src="../src/managers/eventManager.js"></script>
+  <script src="../src/managers/physicManager.js"></script>
+  <script src="../src/managers/spriteManager.js"></script>
+  <script src="../src/managers/mapManager.js"></script>
+  <script src="../src/utils.js"></script>
+  <script src="../src/entities/CollisionBlock.js"></script>
+  <script src="index.js"></script>
+</body>

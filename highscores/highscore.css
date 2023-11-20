@@ -1,0 +1,58 @@
+body {
+  background-color: #ffffff;
+  background-size: 50px 50px;
+  background-image: linear-gradient(#747bff, transparent 1px),
+    linear-gradient(90deg, #747bff, transparent 1px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.grid-container {
+  text-align: center;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px #ccc;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  background: white;
+}
+
+.restart_button {
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+.scores-line {
+  text-align: center;
+  margin: 0 0 32px 0;
+  font-weight: normal;
+}
+
+.score {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.restart_button {
+  padding: 10px 20px 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #0071f0;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.restart_button:focus,
+.restart_button:hover {
+  background-color: rgba(0, 113, 240, 0.7);
+}

@@ -1,0 +1,789 @@
+{
+  "frames": [
+    {
+      "filename": "01-King Human/AttackLeft (78x58).png",
+      "frame": { "x": 0, "y": 304, "w": 234, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 234, "h": 58 },
+      "sourceSize": { "w": 234, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/AttackRight (78x58).png",
+      "frame": { "x": 234, "y": 304, "w": 234, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 234, "h": 58 },
+      "sourceSize": { "w": 234, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/Dead (78x58).png",
+      "frame": { "x": 468, "y": 304, "w": 312, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 312, "h": 58 },
+      "sourceSize": { "w": 312, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/Door In (78x58).png",
+      "frame": { "x": 0, "y": 362, "w": 624, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 624, "h": 58 },
+      "sourceSize": { "w": 624, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/Door Out (78x58).png",
+      "frame": { "x": 0, "y": 420, "w": 624, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 624, "h": 58 },
+      "sourceSize": { "w": 624, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/Fall (78x58).png",
+      "frame": { "x": 624, "y": 420, "w": 78, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 58 },
+      "sourceSize": { "w": 78, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/Ground (78x58).png",
+      "frame": { "x": 702, "y": 420, "w": 78, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 58 },
+      "sourceSize": { "w": 78, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/HitLeft (78x58).png",
+      "frame": { "x": 780, "y": 420, "w": 156, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 58 },
+      "sourceSize": { "w": 156, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/HitRight (78x58).png",
+      "frame": { "x": 0, "y": 478, "w": 156, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 58 },
+      "sourceSize": { "w": 156, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/IdleLeft (78x58).png",
+      "frame": { "x": 156, "y": 478, "w": 858, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 858, "h": 58 },
+      "sourceSize": { "w": 858, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/IdleRight (78x58).png",
+      "frame": { "x": 0, "y": 536, "w": 858, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 858, "h": 58 },
+      "sourceSize": { "w": 858, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/Jump (78x58).png",
+      "frame": { "x": 858, "y": 536, "w": 78, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 58 },
+      "sourceSize": { "w": 78, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/RunLeft (78x58).png",
+      "frame": { "x": 0, "y": 594, "w": 624, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 624, "h": 58 },
+      "sourceSize": { "w": 624, "h": 58 }
+    },
+    {
+      "filename": "01-King Human/RunRight (78x58).png",
+      "frame": { "x": 0, "y": 652, "w": 624, "h": 58 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 624, "h": 58 },
+      "sourceSize": { "w": 624, "h": 58 }
+    },
+    {
+      "filename": "02-King Pig/Attack (38x28).png",
+      "frame": { "x": 780, "y": 52, "w": 190, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 190, "h": 28 },
+      "sourceSize": { "w": 190, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/AttackRight (38x28).png",
+      "frame": { "x": 0, "y": 80, "w": 190, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 190, "h": 28 },
+      "sourceSize": { "w": 190, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/Dead (38x28).png",
+      "frame": { "x": 190, "y": 80, "w": 152, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 28 },
+      "sourceSize": { "w": 152, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/Fall (38x28).png",
+      "frame": { "x": 342, "y": 80, "w": 38, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 28 },
+      "sourceSize": { "w": 38, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/Ground (38x28).png",
+      "frame": { "x": 380, "y": 80, "w": 38, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 28 },
+      "sourceSize": { "w": 38, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/Hit (38x28).png",
+      "frame": { "x": 418, "y": 80, "w": 76, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 76, "h": 28 },
+      "sourceSize": { "w": 76, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/Idle (38x28).png",
+      "frame": { "x": 494, "y": 80, "w": 456, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 456, "h": 28 },
+      "sourceSize": { "w": 456, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/IdleRight (38x28).png",
+      "frame": { "x": 0, "y": 108, "w": 456, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 456, "h": 28 },
+      "sourceSize": { "w": 456, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/Jump (38x28).png",
+      "frame": { "x": 456, "y": 108, "w": 38, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 28 },
+      "sourceSize": { "w": 38, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/Run (38x28).png",
+      "frame": { "x": 494, "y": 108, "w": 228, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 228, "h": 28 },
+      "sourceSize": { "w": 228, "h": 28 }
+    },
+    {
+      "filename": "02-King Pig/RunRight (38x28).png",
+      "frame": { "x": 722, "y": 108, "w": 228, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 228, "h": 28 },
+      "sourceSize": { "w": 228, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/AttackLeft (34x28).png",
+      "frame": { "x": 0, "y": 136, "w": 170, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 28 },
+      "sourceSize": { "w": 170, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/AttackRight (34x28).png",
+      "frame": { "x": 170, "y": 136, "w": 170, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 28 },
+      "sourceSize": { "w": 170, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/Dead (34x28).png",
+      "frame": { "x": 340, "y": 136, "w": 136, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 28 },
+      "sourceSize": { "w": 136, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/Fall (34x28).png",
+      "frame": { "x": 476, "y": 136, "w": 34, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 28 },
+      "sourceSize": { "w": 34, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/Ground (34x28).png",
+      "frame": { "x": 510, "y": 136, "w": 34, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 28 },
+      "sourceSize": { "w": 34, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/Hit (34x28).png",
+      "frame": { "x": 544, "y": 136, "w": 68, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 28 },
+      "sourceSize": { "w": 68, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/IdleLeft (34x28).png",
+      "frame": { "x": 612, "y": 136, "w": 374, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 28 },
+      "sourceSize": { "w": 374, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/IdleRight (34x28).png",
+      "frame": { "x": 0, "y": 164, "w": 374, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 28 },
+      "sourceSize": { "w": 374, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/Jump (34x28).png",
+      "frame": { "x": 374, "y": 164, "w": 34, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 28 },
+      "sourceSize": { "w": 34, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/RunLeft (34x28).png",
+      "frame": { "x": 408, "y": 164, "w": 204, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 204, "h": 28 },
+      "sourceSize": { "w": 204, "h": 28 }
+    },
+    {
+      "filename": "03-Pig/RunRight (34x28).png",
+      "frame": { "x": 612, "y": 164, "w": 204, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 204, "h": 28 },
+      "sourceSize": { "w": 204, "h": 28 }
+    },
+    {
+      "filename": "04-Pig Throwing a Box/Idle (26x30).png",
+      "frame": { "x": 176, "y": 192, "w": 234, "h": 30 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 234, "h": 30 },
+      "sourceSize": { "w": 234, "h": 30 }
+    },
+    {
+      "filename": "04-Pig Throwing a Box/Picking Box (26x30).png",
+      "frame": { "x": 410, "y": 192, "w": 130, "h": 30 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 130, "h": 30 },
+      "sourceSize": { "w": 130, "h": 30 }
+    },
+    {
+      "filename": "04-Pig Throwing a Box/Run (26x30).png",
+      "frame": { "x": 540, "y": 192, "w": 156, "h": 30 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 30 },
+      "sourceSize": { "w": 156, "h": 30 }
+    },
+    {
+      "filename": "04-Pig Throwing a Box/Throwing Box (26x30).png",
+      "frame": { "x": 696, "y": 192, "w": 130, "h": 30 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 130, "h": 30 },
+      "sourceSize": { "w": 130, "h": 30 }
+    },
+    {
+      "filename": "05-Pig Thowing a Bomb/Idle (26x26).png",
+      "frame": { "x": 130, "y": 52, "w": 260, "h": 26 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 260, "h": 26 },
+      "sourceSize": { "w": 260, "h": 26 }
+    },
+    {
+      "filename": "05-Pig Thowing a Bomb/Picking Bomb (26x26).png",
+      "frame": { "x": 390, "y": 52, "w": 104, "h": 26 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 26 },
+      "sourceSize": { "w": 104, "h": 26 }
+    },
+    {
+      "filename": "05-Pig Thowing a Bomb/Run (26x26).png",
+      "frame": { "x": 494, "y": 52, "w": 156, "h": 26 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 26 },
+      "sourceSize": { "w": 156, "h": 26 }
+    },
+    {
+      "filename": "05-Pig Thowing a Bomb/Throwing Boom (26x26).png",
+      "frame": { "x": 650, "y": 52, "w": 130, "h": 26 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 130, "h": 26 },
+      "sourceSize": { "w": 130, "h": 26 }
+    },
+    {
+      "filename": "06-Pig Hide in the Box/Fall (26x20).png",
+      "frame": { "x": 914, "y": 32, "w": 26, "h": 20 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 20 },
+      "sourceSize": { "w": 26, "h": 20 }
+    },
+    {
+      "filename": "06-Pig Hide in the Box/Ground (26x20).png",
+      "frame": { "x": 940, "y": 32, "w": 26, "h": 20 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 20 },
+      "sourceSize": { "w": 26, "h": 20 }
+    },
+    {
+      "filename": "06-Pig Hide in the Box/Jump (26x20).png",
+      "frame": { "x": 966, "y": 32, "w": 52, "h": 20 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 52, "h": 20 },
+      "sourceSize": { "w": 52, "h": 20 }
+    },
+    {
+      "filename": "06-Pig Hide in the Box/Jump Anticipation (26x20).png",
+      "frame": { "x": 0, "y": 52, "w": 52, "h": 20 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 52, "h": 20 },
+      "sourceSize": { "w": 52, "h": 20 }
+    },
+    {
+      "filename": "06-Pig Hide in the Box/Looking Out (26x20).png",
+      "frame": { "x": 52, "y": 52, "w": 78, "h": 20 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 20 },
+      "sourceSize": { "w": 78, "h": 20 }
+    },
+    {
+      "filename": "07-Pig With a Match/Lighting the Cannon (26x18).png",
+      "frame": { "x": 680, "y": 32, "w": 78, "h": 18 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 18 },
+      "sourceSize": { "w": 78, "h": 18 }
+    },
+    {
+      "filename": "07-Pig With a Match/Lighting the Match (26x18).png",
+      "frame": { "x": 758, "y": 32, "w": 78, "h": 18 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 18 },
+      "sourceSize": { "w": 78, "h": 18 }
+    },
+    {
+      "filename": "07-Pig With a Match/Match On (26x18).png",
+      "frame": { "x": 836, "y": 32, "w": 78, "h": 18 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 18 },
+      "sourceSize": { "w": 78, "h": 18 }
+    },
+    {
+      "filename": "08-Box/Box Pieces 1.png",
+      "frame": { "x": 60, "y": 0, "w": 10, "h": 10 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 10, "h": 10 },
+      "sourceSize": { "w": 10, "h": 10 }
+    },
+    {
+      "filename": "08-Box/Box Pieces 2.png",
+      "frame": { "x": 70, "y": 0, "w": 10, "h": 10 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 10, "h": 10 },
+      "sourceSize": { "w": 10, "h": 10 }
+    },
+    {
+      "filename": "08-Box/Box Pieces 3.png",
+      "frame": { "x": 80, "y": 0, "w": 10, "h": 10 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 10, "h": 10 },
+      "sourceSize": { "w": 10, "h": 10 }
+    },
+    {
+      "filename": "08-Box/Box Pieces 4.png",
+      "frame": { "x": 90, "y": 0, "w": 10, "h": 10 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 10, "h": 10 },
+      "sourceSize": { "w": 10, "h": 10 }
+    },
+    {
+      "filename": "08-Box/Hit.png",
+      "frame": { "x": 954, "y": 0, "w": 22, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 16 },
+      "sourceSize": { "w": 22, "h": 16 }
+    },
+    {
+      "filename": "08-Box/Idle.png",
+      "frame": { "x": 976, "y": 0, "w": 22, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 16 },
+      "sourceSize": { "w": 22, "h": 16 }
+    },
+    {
+      "filename": "09-Bomb/Bomb Off.png",
+      "frame": { "x": 892, "y": 192, "w": 52, "h": 56 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 52, "h": 56 },
+      "sourceSize": { "w": 52, "h": 56 }
+    },
+    {
+      "filename": "09-Bomb/Bomb On (52x56).png",
+      "frame": { "x": 0, "y": 248, "w": 208, "h": 56 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 56 },
+      "sourceSize": { "w": 208, "h": 56 }
+    },
+    {
+      "filename": "09-Bomb/Boooooom (52x56).png",
+      "frame": { "x": 208, "y": 248, "w": 312, "h": 56 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 312, "h": 56 },
+      "sourceSize": { "w": 312, "h": 56 }
+    },
+    {
+      "filename": "10-Cannon/Cannon Ball.png",
+      "frame": { "x": 816, "y": 164, "w": 44, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 28 },
+      "sourceSize": { "w": 44, "h": 28 }
+    },
+    {
+      "filename": "10-Cannon/Idle.png",
+      "frame": { "x": 860, "y": 164, "w": 44, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 28 },
+      "sourceSize": { "w": 44, "h": 28 }
+    },
+    {
+      "filename": "10-Cannon/Shoot (44x28).png",
+      "frame": { "x": 0, "y": 192, "w": 176, "h": 28 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 176, "h": 28 },
+      "sourceSize": { "w": 176, "h": 28 }
+    },
+    {
+      "filename": "11-Door/Closiong (46x56).png",
+      "frame": { "x": 520, "y": 248, "w": 138, "h": 56 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 138, "h": 56 },
+      "sourceSize": { "w": 138, "h": 56 }
+    },
+    {
+      "filename": "11-Door/Idle.png",
+      "frame": { "x": 658, "y": 248, "w": 46, "h": 56 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 46, "h": 56 },
+      "sourceSize": { "w": 46, "h": 56 }
+    },
+    {
+      "filename": "11-Door/Opening (46x56).png",
+      "frame": { "x": 704, "y": 248, "w": 230, "h": 56 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 230, "h": 56 },
+      "sourceSize": { "w": 230, "h": 56 }
+    },
+    {
+      "filename": "12-Live and Coins/Big Diamond Hit (18x14).png",
+      "frame": { "x": 100, "y": 0, "w": 36, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 14 },
+      "sourceSize": { "w": 36, "h": 14 }
+    },
+    {
+      "filename": "12-Live and Coins/Big Diamond Idle (18x14).png",
+      "frame": { "x": 136, "y": 0, "w": 180, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 14 },
+      "sourceSize": { "w": 180, "h": 14 }
+    },
+    {
+      "filename": "12-Live and Coins/Big Heart Hit (18x14).png",
+      "frame": { "x": 316, "y": 0, "w": 36, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 14 },
+      "sourceSize": { "w": 36, "h": 14 }
+    },
+    {
+      "filename": "12-Live and Coins/Big Heart Idle (18x14).png",
+      "frame": { "x": 352, "y": 0, "w": 144, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 144, "h": 14 },
+      "sourceSize": { "w": 144, "h": 14 }
+    },
+    {
+      "filename": "12-Live and Coins/Live Bar.png",
+      "frame": { "x": 826, "y": 192, "w": 66, "h": 34 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 66, "h": 34 },
+      "sourceSize": { "w": 66, "h": 34 }
+    },
+    {
+      "filename": "12-Live and Coins/Numbers (6x8).png",
+      "frame": { "x": 0, "y": 0, "w": 60, "h": 8 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 8 },
+      "sourceSize": { "w": 60, "h": 8 }
+    },
+    {
+      "filename": "12-Live and Coins/Small Diamond (18x14).png",
+      "frame": { "x": 496, "y": 0, "w": 144, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 144, "h": 14 },
+      "sourceSize": { "w": 144, "h": 14 }
+    },
+    {
+      "filename": "12-Live and Coins/Small Heart Hit (18x14).png",
+      "frame": { "x": 640, "y": 0, "w": 36, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 14 },
+      "sourceSize": { "w": 36, "h": 14 }
+    },
+    {
+      "filename": "12-Live and Coins/Small Heart Idle (18x14).png",
+      "frame": { "x": 676, "y": 0, "w": 144, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 144, "h": 14 },
+      "sourceSize": { "w": 144, "h": 14 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/!!! In (24x8).png",
+      "frame": { "x": 0, "y": 16, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/!!! Out (24x8).png",
+      "frame": { "x": 102, "y": 16, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Attack In (24x8).png",
+      "frame": { "x": 170, "y": 16, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Attack Out (24x8).png",
+      "frame": { "x": 272, "y": 16, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Boom In (24x8).png",
+      "frame": { "x": 340, "y": 16, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Boom Out (24x8).png",
+      "frame": { "x": 442, "y": 16, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Dead In (24x8).png",
+      "frame": { "x": 510, "y": 16, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Dead Out (24x8).png",
+      "frame": { "x": 612, "y": 16, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Hello In (24x8).png",
+      "frame": { "x": 680, "y": 16, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Hello Out (24x8).png",
+      "frame": { "x": 782, "y": 16, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Hi In (24x8).png",
+      "frame": { "x": 850, "y": 16, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Hi Out (24x8).png",
+      "frame": { "x": 952, "y": 16, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Interrogation In (24x8).png",
+      "frame": { "x": 0, "y": 32, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Interrogation Out (24x8).png",
+      "frame": { "x": 102, "y": 32, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Loser In (24x8).png",
+      "frame": { "x": 170, "y": 32, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/Loser Out (24x8).png",
+      "frame": { "x": 272, "y": 32, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/No In (24x8).png",
+      "frame": { "x": 340, "y": 32, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/No Out (24x8).png",
+      "frame": { "x": 442, "y": 32, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/WTF In (24x8).png",
+      "frame": { "x": 510, "y": 32, "w": 102, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 16 },
+      "sourceSize": { "w": 102, "h": 16 }
+    },
+    {
+      "filename": "13-Dialogue Boxes/WTF Out (24x8).png",
+      "frame": { "x": 612, "y": 32, "w": 68, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 16 },
+      "sourceSize": { "w": 68, "h": 16 }
+    },
+    {
+      "filename": "Kings and Pigs.png",
+      "frame": { "x": 820, "y": 0, "w": 134, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 134, "h": 14 },
+      "sourceSize": { "w": 134, "h": 14 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": { "w": 1020, "h": 710 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:9cc5543a52f5735dba26ed92d32d5b2b:d0722f74d01c1149950c22e1382a3edc:f8f438b799cb53e0257e4a6a44974840$"
+  }
+}
